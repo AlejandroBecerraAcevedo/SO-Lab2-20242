@@ -1,3 +1,7 @@
+// Integrantes del trabajo:
+// - Johan Sebastian Henao
+// - Alejandro Becerra Acevedo
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
